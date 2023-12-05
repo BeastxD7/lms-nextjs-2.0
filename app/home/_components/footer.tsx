@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 export const Footer = () => {
   const handleClick = () => {
-    window.open('https://github.com/BeastxD7/learnfast.git', '_blank');
+    window.open('https://github.com/BeastxD7/lms-nextjs-2.0.git', '_blank');
   };
   return (
     <div className="fixed bottom-0 w-full p-4 border-t">
