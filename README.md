@@ -29,4 +29,3 @@ Step 4: run `npx prisma db push` to push the schema to database
 Step 5: run `node .\scripts\seed.ts` to enable the Catogories section
 
 Step 6: run `npm run dev` to start the server
-
