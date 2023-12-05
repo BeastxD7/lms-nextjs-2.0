@@ -11,6 +11,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'LearnFast',
   description: '| Learning Made Simpler',
+  icons: {
+    icon:"/logo.png"
+  }
 }
 
 export default function RootLayout({
